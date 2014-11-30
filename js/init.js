@@ -116,7 +116,7 @@
         
             // Switch products
             $('.row.apps article').hide();
-            $('.actions').on('click', '.button', function(e) {
+            $('#two .actions').on('click', '.button', function(e) {
                 
                 e.preventDefault();
                 
