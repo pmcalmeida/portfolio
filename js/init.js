@@ -115,7 +115,7 @@
 				});
         
             // Switch products
-            $('.row.products article').hide();
+            $('.row.apps article').hide();
             $('.actions').on('click', '.button', function(e) {
                 
                 e.preventDefault();
